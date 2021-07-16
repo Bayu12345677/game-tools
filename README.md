@@ -1,6 +1,14 @@
 # game-tools
 Script di buat untuk menstabilkan jaringan sesuai alamat
-Ip internet kalian.
+Dilarang keras recode script ini memakai tidak semudah memakai
+ini saya update potongan sc saya yg belum rilis
+Me contac we ajarin cara buat sc gak usah recode
+Ni:085731184377
+
+Script ini di buat agar bisa menstabilkan jaringan semua operator
+Agar semua orang bisa menikmati game dengan nyaman
+Script ini bekerja dengan mengunakan alamat ip adress
+Internet kalian.
 Cara mengetahui ip kalian
 Buka termux
 Ketik ifconfig
